@@ -1,1 +1,0 @@
- lần đầu push được 1 file từ local repository lên remote repository.
