@@ -4,3 +4,5 @@ function code() {
   console.log('hello world');
 }
 ```
+được của ló
+fdsafsdf
